@@ -1,5 +1,5 @@
 # Pemrograman Mobile
-## Tugas Hello layouy
+## Tugas Hello layout
 ### Nama Anggota:
 * Alfan Noufal Nasruddin
 * Muhamad Alfin
